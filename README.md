@@ -1,2 +1,1 @@
-# AVL_trees
-Insertion, elimination and reorganization of AVL trees
+# tarea-2-mariana-perezcong
